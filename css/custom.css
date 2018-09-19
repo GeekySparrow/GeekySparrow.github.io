@@ -1,0 +1,15 @@
+img.rounded-circle {
+  opacity: 0.85;
+  filter: alpha(opacity=85);
+  /* For IE8 and earlier */
+}
+
+img.rounded-circle:hover {
+  opacity: 1;
+  filter: alpha(opacity=1);
+  /* For IE8 and earlier */
+}
+
+li a h5 {
+  padding: 5px 10px 0px 10px
+}
